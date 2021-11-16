@@ -54,3 +54,23 @@
 	font-size: 18px;
 	font-weight: 700;
 }
+.todo-submit:hover {
+	background-color:black
+}
+
+.delete {
+	display: block;
+	width: 100%;
+	max-width: 100px;
+	background-color: #FE4880;
+	color: #FFF;
+	border: none;
+	margin: 10px auto;
+	padding: 5px 10px;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.delete:hover {
+	background-color:black;
+}
